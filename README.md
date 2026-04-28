@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Constructor Project].
 
-- 🌱 I’m currently learning **java,ui,react,javascript,css**
+- 🌱 I’m currently learning **sailpoint/IAM, python full stack**
 
 - 👯 I’m looking to collaborate on **booking slot system**
 
