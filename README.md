@@ -2,19 +2,19 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"&gt;
 
-- 🔭 I’m currently working on [To DO project](https://leelakrishna9090.pythonanywhere.com/)
+- 🔭 I’m currently working on [Constructor ].
 
 - 🌱 I’m currently learning **java,ui,react,javascript,css**
 
-- 👯 I’m looking to collaborate on **Railway reservation system**
+- 👯 I’m looking to collaborate on **booking slot system**
 
-- 🤝 I’m looking for help with **Employee management system**
+- 🤝 I’m looking for help with **Employee system**
 
-- 📝 I regularly write articles on [html,css,bootstrap,python,django](html,css,bootstrap,python,django)
+- 📝 I regularly write articles on [html,css,bootstrap,python,django]
 
 - 💬 Ask me about **html,css,bootstrap,python,oracle,**
 
-- 📫 How to reach me **llleelakrishna12@gmail.com**
+- 📫 How to reach me **Lethavadlaleelakrishna@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
 
